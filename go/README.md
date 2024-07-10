@@ -6,6 +6,10 @@ Esse desafio é muito empolgante principalmente se você nunca trabalhou com a l
 
 Nesse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go! Você terá que publicar uma imagem no docker hub. Quando executarmos:
 
+```bash Pull Docker Hub
+docker pull sicrano3000/fc:latest
+```
+
 ```bash
 docker build -t <seu-user>/fullcycle .
 ```
