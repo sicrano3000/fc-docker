@@ -7,7 +7,7 @@ Esse desafio é muito empolgante principalmente se você nunca trabalhou com a l
 Nesse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go! Você terá que publicar uma imagem no docker hub. Quando executarmos:
 
 ```bash
-docker build -t <seu-user>/fullcycle .
+docker build -t <seu-user>/fc .
 ```
 ## Imagem no DockerHub
 
@@ -26,7 +26,7 @@ Lembrando que a Go Lang possui imagens oficiais prontas, vale a pena consultar o
 ## 🔥Executando o container
 
 ```bash
-docker run --rm <seu-user>/fullcycle
+docker run --rm <seu-user>/fc
 ```
 
 Suba o projeto em um repositório Git remoto e coloque o link da imagem que subiu no Docker Hub.
